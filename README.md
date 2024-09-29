@@ -22,7 +22,7 @@ This project demonstrates how to implement web push notifications in a Laravel a
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/laravel-push-notifications.git
+git clone https://github.com/rahulvadhavani/VAPID-push-notification.git
 cd laravel-push-notifications
 ```
 
